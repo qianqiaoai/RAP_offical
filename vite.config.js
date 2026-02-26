@@ -23,7 +23,7 @@ export default defineConfig({
       ],
     }),
   ],
-  base:'/RAP',
+  base:'/RAP_offical',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
